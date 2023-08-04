@@ -22,4 +22,12 @@ Main Objective In this project, you will implement a program that given overlapp
 
 ### Project Description
 The full description of the problem can be found in the file "Project Description.pdf".
+
+### Solution
+The solutions submitted for the project include the following files which are uploaded in the repository.
+1. project.py
+2. project_functions.py
+3. test_project_functions.py
+4. project_report_Calo_Theresse_2158606.pdf
+
 </div>
