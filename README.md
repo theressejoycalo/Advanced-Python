@@ -20,5 +20,6 @@ Without a reference DNA sequence, there is no algorithm that will get the correc
 
 Main Objective In this project, you will implement a program that given overlapping sequences of small DNA segments assembles these segments and returns the whole DNA sequence.
 
-
+### Project Description
+The full description of the problem can be found in the file "Project Description.pdf".
 </div>
