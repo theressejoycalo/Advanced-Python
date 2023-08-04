@@ -12,6 +12,13 @@ In order to construct a DNA sequence of a given DNA, typically the sequence is m
 <br />
 TTAATTA ATTACTC ACTCAC TCACTGGCTAA CTAATTACTCACTGG CTGGGT GGGTCACT CACTACGCACTG<br />
 <br />
-These DNA sequences of the smaller segments typically overlap. Thus, they have to be aligned or connected together in order to know the correct sequence. For example, the correct alignment of the previous set of sequences relative to the original DNA sequence is as follows<br />
+These DNA sequences of the smaller segments typically overlap. Thus, they have to be aligned or connected together in order to know the correct sequence. <br />
+<br />
+Without a reference DNA sequence, there is no algorithm that will get the correct sequence for all the possible cases of segments. However, we are going to add some assumptions under which we guarantee to find the correct DNA sequence from the given segments.
+
+<br />
+
+Main Objective In this project, you will implement a program that given overlapping sequences of small DNA segments assembles these segments and returns the whole DNA sequence.
+
 
 </div>
